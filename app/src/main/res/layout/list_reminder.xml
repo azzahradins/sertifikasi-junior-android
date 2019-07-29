@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_default"
+    android:padding="12dp"
+    android:layout_margin="8dp"
+    android:elevation="16dp">
+
+    <TextView
+        android:id="@+id/txtNama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textSize="18sp"
+        android:text="@string/nama_kegiatan_tv"/>
+    <TextView
+        android:id="@+id/txtKeterangan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textColor="#000"
+        android:paddingTop="6dp"
+        android:paddingBottom="6dp"
+        android:text="@string/keterangan_singkat_tv"/>
+    <TextView
+        android:id="@+id/txtWaktu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:textColor="#000"
+        android:text="@string/waktu_kegiatan_tv"/>
+
+</LinearLayout>

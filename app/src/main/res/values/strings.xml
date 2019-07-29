@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pengingat Sederhana</string>
+    <string name="nama_kegiatan">Nama Kegiatan :</string>
+    <string name="enter_kegiatan">Masukan Nama Kegiatan</string>
+    <string name="keterangan">Keterangan :</string>
+    <string name="enter_keterangan">Masukan Keterangan Kegiatan</string>
+    <string name="enter_waktu">Masukan Waktu Kegiatan</string>
+    <string name="create_new_kegiatan">[+] Buat baru...</string>
+    <string name="nama_kegiatan_tv">Nama Kegiatan</string>
+    <string name="keterangan_singkat_tv">Keterangan Singkat</string>
+    <string name="waktu_kegiatan_tv">Waktu Kegiatan</string>
+</resources>
